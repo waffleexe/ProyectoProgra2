@@ -21,6 +21,7 @@ public class Main extends Application{
 		launch(args);
 		//caca
 		//ASADFGHJKL;
+		//porwque no me ensenas nada mierda
 	}
 
 	
