@@ -20,6 +20,7 @@ public class Main extends Application{
 		
 		launch(args);
 		//caca
+		//ASADFGHJKL;
 	}
 
 	
